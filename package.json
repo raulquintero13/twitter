@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "twiter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulquintero13/twitter.git"
+  },
+  "author": "Raul Quintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulquintero13/twitter/issues"
+  },
+  "homepage": "https://github.com/raulquintero13/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
